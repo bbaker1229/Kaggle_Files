@@ -2,6 +2,8 @@
 ## Titanic R Script
 ######################################################
 
+# Checking github.
+
 # Most of this is from this website:
 # https://github.com/wehrley/wehrley.github.io/blob/master/SOUPTONUTS.md
 
